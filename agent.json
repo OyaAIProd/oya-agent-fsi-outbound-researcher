@@ -205,11 +205,6 @@
   ],
   "gateways": [
     {
-      "platform": "linkedin-messaging",
-      "name": "LinkedIn Messages \u2014 Nick Smyth",
-      "is_active": true
-    },
-    {
       "platform": "slack",
       "name": "Slack \u2014 OyaAI",
       "is_active": true

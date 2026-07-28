@@ -213,6 +213,11 @@
       "platform": "slack",
       "name": "Slack \u2014 OyaAI",
       "is_active": true
+    },
+    {
+      "platform": "apollo",
+      "name": "Nick acc",
+      "is_active": true
     }
   ],
   "routines": [

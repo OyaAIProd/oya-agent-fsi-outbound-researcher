@@ -275,13 +275,18 @@
       "is_active": true
     },
     {
-      "platform": "linkedin-messaging",
-      "name": "LinkedIn Messages \u2014 Nick Smyth",
+      "platform": "attio",
+      "name": "Attio \u2014 OAuth",
       "is_active": true
     },
     {
-      "platform": "attio",
-      "name": "Attio \u2014 OAuth",
+      "platform": "linkedin",
+      "name": "LinkedIn \u2014 Nick Smyth",
+      "is_active": true
+    },
+    {
+      "platform": "linkedin-messaging",
+      "name": "LinkedIn Messages \u2014 Nick Smyth",
       "is_active": true
     }
   ],
